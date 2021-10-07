@@ -8,10 +8,12 @@
 
 ## Contact Information
 
- * Email: ekwabena57@gmail.com
+ * [Email](mailto:ekwabena57@gmail.com)
  * Phone Number: +233 54 491 0061
  * LinkedIn: https://www.linkedin.com/in/emmanuel-larbi-90086a210/
  * GitHub: https://github.com/ManuelDCoder
+ * Portfolio: https://my-portfolio-iota-ruby.vercel.app/
+
 
 ### Skills
 
