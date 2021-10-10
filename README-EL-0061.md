@@ -1,7 +1,7 @@
 # Emmanuel Larbi 
 
 <img src="https://www.datamavens.io/web/image/res.users/27/image_128?unique=49da39f" alt="Profile Picture_EL"
-align = "center" width="200" height = "200"><br>
+align = "center">
 I am a Computer Science student at Accra Technical University about entering my third year. I love 
 technology and how it helps improve the standard of living. I enjoy gaining new experiences and skills to further my knowledge in improving the technological world.<br>Aspiring AI Robotics engineer, Game Developer and a Software engineer. I have experience in Website 
 Development and UI/UX Design.
