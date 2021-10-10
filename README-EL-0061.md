@@ -9,10 +9,10 @@ Development and UI/UX Design.
 ## Contact Information
 
  * [Mail](mailto:ekwabena57@gmail.com)
- * [Phone](+233 54 491 0061)
- * [LinkedIn] (https://www.linkedin.com/in/emmanuel-larbi-90086a210/)
- * [GitHub] (https://github.com/ManuelDCoder)
- * [Portfolio] (https://my-portfolio-iota-ruby.vercel.app/)
+ * [Phone](+233544910061)
+ * [LinkedIn](https://www.linkedin.com/in/emmanuel-larbi-90086a210/)
+ * [GitHub](https://github.com/ManuelDCoder)
+ * [Portfolio](https://my-portfolio-iota-ruby.vercel.app/)
 
 
 ### Skills
