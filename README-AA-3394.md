@@ -18,17 +18,17 @@
      	* HTML
      	* CSS
      
-   * # Database
-     * SQL (intermediate)
+    * # Database
+    * SQL (intermediate)
 
    
 
-   * # Desktop Development
+    * # Desktop Development
     * C++
     * Java
     * python (beginner)
 
-   * # Version Control
+    * # Version Control
     * Git and GitHub (beginner)
     
 ### Social media
